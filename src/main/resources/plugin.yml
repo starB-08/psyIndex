@@ -1,0 +1,4 @@
+name: psyIndex
+version: '${version}'
+main: io.github.starb08.psyindex.PsyIndex
+api-version: '1.20'
